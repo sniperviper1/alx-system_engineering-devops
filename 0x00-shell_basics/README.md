@@ -1,1 +1,1 @@
-absolute path name of the current working directory
+My second readme
