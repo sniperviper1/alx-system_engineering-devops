@@ -1,2 +1,2 @@
 #!/bink/bash
-awk '{if ($1 !="") print $1}' your_file
+cut -d' ' -f1 file
